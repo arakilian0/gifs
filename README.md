@@ -1,5 +1,5 @@
-Gifs by @arakilian0
-# License
+# Gifs by [@arakilian0](https://github.com/arakilian0)
+## License
 MIT License
 
 Copyright (c) 2021 Michael Arakilian
